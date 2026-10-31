@@ -18,3 +18,4 @@ while True:
 
     except ValueError:
         print("Ошибка: Введите целое число.")
+
